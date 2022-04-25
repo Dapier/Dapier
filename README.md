@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## See my portfolio on: https://porfolio-web.netlify.app/
+
+```js
+const dapier = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, NextJS, Styled-Components, Jest, Adobe XD, Front End],
+ 
+} 
+```
 <!--
 **Dapier/Dapier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
