@@ -11,17 +11,18 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [14.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
+    
     steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js $
+    - name: Use Node.js
       uses: actions/setup-node@v3
       with:
         node-version: 14.x
     - run: npm install
     - run: npm run update-readme
+    - uses: actions/checkout@v3
+    - run: |
+          git config user.name dapier
+          git config user.email josuea501@gmail.com 
+          git add README.md
+          git commit -m "[bot] README updated with latest info"
+          git push origin main
