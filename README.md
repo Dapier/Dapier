@@ -53,5 +53,9 @@ export default Dapier;
 ~ [Instagram](https://www.instagram.com/dapiers/)
 ~ [Blog](https://kaanbalcat.vercel.app/)
 
-<a href="https://github.com/dapier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapier&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/dapier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapier" /></a> |
+
+
+
+
 
