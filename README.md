@@ -1,7 +1,8 @@
 ### 💫 Hi, Im Josue Alvarado 💫
 
 #### See my portfolio on: https://porfolio-web.netlify.app/
-![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
+![Banner](https://user-images.githubusercontent.com/62907111/165631777-0a6782ea-09ef-40de-9430-a3794f7a2126.png)
+
 ```js
 const Dapier = () =>{
   const [info, setinfo] = useState([])
