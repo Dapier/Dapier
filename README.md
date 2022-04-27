@@ -1,4 +1,4 @@
-### Hi, Im Josue Alvarado 👉👈
+### 💫 Hi, Im Josue Alvarado 💫
 
 ## See my portfolio on: https://porfolio-web.netlify.app/
 
