@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/setup-node@v1
+    - uses: actions/setup-node@v3
       with:
         node-version: '14'
     - run: npm install
     - run: npm run update-readme
     - uses: actions/checkout@v3
     - run: |
-          git config user.name dapier
+          git config user.name Dapier
           git config user.email josuea501@gmail.com 
           git add README.md
           git commit -m "[bot] README updated with latest info"
