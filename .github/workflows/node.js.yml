@@ -17,7 +17,7 @@ jobs:
         node-version: '14'
     - run: npm install
     - run: npm run update-readme
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
     - run: |
           git config user.name Dapier
           git config user.email josuea501@gmail.com 
