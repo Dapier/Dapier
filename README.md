@@ -1,8 +1,7 @@
 ### 💫 Hi, Im Josue Alvarado 💫
 
 #### See my portfolio on: https://porfolio-web.netlify.app/
-![Banner](https://user-images.githubusercontent.com/62907111/165631777-0a6782ea-09ef-40de-9430-a3794f7a2126.png)
-
+![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
 ```js
 const Dapier = () =>{
   const [info, setinfo] = useState([])
@@ -53,9 +52,7 @@ export default Dapier;
 ~ [Instagram](https://www.instagram.com/dapiers/)
 ~ [Blog](https://kaanbalcat.vercel.app/)
 
-<a href="https://github.com/dapier/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapier" /></a> |
+#### Thanks for beeing my visitor number:
 
-
-
-
+![visitor](https://visitor-badge.glitch.me/badge?page_id=Dapier.Dapier)
 
