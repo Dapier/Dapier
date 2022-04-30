@@ -1,5 +1,4 @@
 
-<h3 align="center"> %{{greeting}}% </h3>
 
 <h3 align="center">Good Good afternoon! </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
