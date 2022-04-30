@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Good Good afternoon! </h3>
+<h3 align="center"> Good afternoon! </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
 <h3 align="center">You can visit my web portfolio [here](https://porfolio-web.netlify.app/#contact)</h3>
 
