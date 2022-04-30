@@ -64,6 +64,8 @@ export default Dapier
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-css3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](#)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapier)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Find Me In:
 ~ <a href="https://twitter.com/drawdapier">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -79,6 +81,4 @@ export default Dapier
 <a href="https://github.com/Dapier/blog_graphCMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=blog_graphCMS&theme=buefy" />
 </a>
-<a href="https://github.com/Dapier/https://github.com/Dapier/Pharmacy/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=Pharmacy/tree/main&theme=buefy" />
-</a>
+
