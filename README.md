@@ -1,3 +1,5 @@
+
+<h1 align="center">Good </h1>
 <h1 align="center">Hi!, Im Josue Alvarado</h1>
 
 
@@ -74,7 +76,11 @@ export default Dapier
 ~ [Instagram](https://www.instagram.com/dapiers/)
 ~ [Blog](https://kaanbalcat.vercel.app/)
 
-#### Thanks for beeing my visitor number:
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=Dapier.Dapier)
+### Top Repositories
+<a href="https://github.com/Dapier/blog_graphCMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
