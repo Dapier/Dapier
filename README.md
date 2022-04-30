@@ -1,9 +1,9 @@
-
 <h3 align="center">Good </h3>
 <h1 align="center">Hi!, Im Josue Alvarado</h1>
-<h3 align="center">You can see my portfolio [here](https://porfolio-web.netlify.app/)</h3>
+
 
 ![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
+
 ```js
 import React from 'react'
 import { useState } from 'react'
@@ -82,4 +82,3 @@ export default Dapier
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
-
