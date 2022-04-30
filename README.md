@@ -1,4 +1,4 @@
-<h3 align="center">Good </h3>
+<h3 align="center">Good %{{greeting}}% </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
 <h3 align="center">You can visit my web portfolio [here](https://porfolio-web.netlify.app/#contact)</h3>
 
@@ -75,10 +75,10 @@ export default Dapier
 ~ [Instagram](https://www.instagram.com/dapiers/)
 ~ [Blog](https://kaanbalcat.vercel.app/)
 
-### Top Repositories
+### My Fav Works
 <a href="https://github.com/Dapier/blog_graphCMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=blog_graphCMS&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Dapier/https://github.com/Dapier/Pharmacy/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=Pharmacy/tree/main&theme=buefy" />
 </a>
