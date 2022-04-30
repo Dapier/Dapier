@@ -3,25 +3,46 @@
 #### See my portfolio on: https://porfolio-web.netlify.app/
 ![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
 ```js
-const Dapier = () =>{
-  const [info, setinfo] = useState([])
-  
-  setInfo(
-      hoobies: [coding, play piano, drink coffe ☕]
-      code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-      tools: [React, Redux, Node, NextJS, Styled-Components, Adobe XD, Figma],
-      skills: [teamwork, adaptability]
-  }
-  return(
-    <h1> Hiiiii </h1>
-    <h3>About me</h3>
-    <span>
-      I am a front end developer , a coffee and cat lover <3 , i love working with people who have my own passion
-      for programming as well as developing countless web and mobile applications
-    </span>
+import React from 'react'
+import { useState } from 'react'
+const Dapier = () => {
+    const [me, setMe] = useState(
+        {
+            name: 'Josue Alvarado',
+            hobbies: ['coding 💻', 'drink coffee ☕', 'read documentation 📖'],
+            tools: ['Windows', 'Linux', 'Adobe XD', 'Github', 'Git Bash', 'GitLab', 'Figma'],
+            skills: ['compromise ', 'motivation ', 'adaptability ', 'Listening ']   
+        }
+    )
+    console.log(me);
+  return (
+    <div>
+        <h1>
+            Hi im {me.name}
+        </h1>
+        <span>I usually do in my days:</span>
+        <p>{me.hobbies}</p>
+        <h3>What tools i use</h3>
+        <ul>
+            {me.tools.map((item,i) =>
+                <li key={i}>
+                    <span>{item}</span>
+                </li>
+            )}
+        </ul>
+        <h3>My skills</h3>
+        <ul>
+            {me.skills.map((item,i) =>
+                <li key={i}>
+                    <span>{item}</span>
+                </li>
+            )}
+        </ul>
+    </div>
   )
 }
-export default Dapier;
+
+export default Dapier
 
 ```
 ### 💻 Technologies 📱 
