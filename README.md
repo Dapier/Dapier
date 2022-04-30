@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3 align="center">Good %{{greeting}}% </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
 <h3 align="center">You can visit my web portfolio [here](https://porfolio-web.netlify.app/#contact)</h3>
@@ -81,4 +82,3 @@ export default Dapier
 <a href="https://github.com/Dapier/blog_graphCMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=blog_graphCMS&theme=buefy" />
 </a>
-
