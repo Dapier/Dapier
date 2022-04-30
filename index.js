@@ -1,4 +1,8 @@
 const fs = require('fs').promises
+
+const iconsSizePlaceholder = /%{{icon_size}}%/g
+const timePlaceholder = /%{{greeting}}%/g
+
 var d = new Date();
 var time = d.getHours();
 let currentTime
@@ -11,9 +15,6 @@ if (time > 12) {
 if (time == 12) {
     currentTime = "🌕 Good Night! 🌕";
 }
-const iconsSizePlaceholder = /%{{icon_size}}%/g
-const timePlaceholder = /%{{greeting}}%/g
-
 
 const iconSize = '21px'
 ;(async () =>{
