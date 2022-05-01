@@ -2,6 +2,7 @@
 
 <h3 align="center"> ☀ Good Morning ☀ </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
+<i>~ From Design To Code ~</i>
 <h3 align="center">You can visit my web portfolio [here](https://porfolio-web.netlify.app/) </h3>
 
 ![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
@@ -65,6 +66,9 @@ export default Dapier
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 
+<h4 align="center">Tools</h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" **alt="xd" width="40" height="40"/>
 
 
 #### I ❤️ work with
