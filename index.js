@@ -5,20 +5,8 @@ const timePlaceholder = /%{{greeting}}%/g
 
 const date = new Date();
 let hours = date.getHours();
-let greetingTime = (hours < 12) ? '☀ Good Morning ☀ ' : ((hours <= 18 && hours >=12)? 'Hey whats up guys!' : "🌕 Good Evening! 🌕" )
+let greetingTime = (hours < 12) ? '☀ Good Morning ☀ ' : ((hours <= 18 && hours >= 12) ? 'Good Afternoon!' : "🌕 Good Evening! 🌕" )
 
-
-// console.log(currentTime);
-// if (time < 12) {
-//   currentTime = "Good afternoon!";
-// }
-// if (time > 12) {
-//   currentTime = '☀ Good Morning ☀'
-
-// }
-// if (time == 12) {
-//     currentTime = "🌕 Good Night! 🌕";
-// }
 
 
 const iconSize = '21px'
