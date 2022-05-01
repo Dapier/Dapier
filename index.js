@@ -6,6 +6,7 @@ const timePlaceholder = /%{{greeting}}%/g
 var d = new Date();
 var time = d.getHours();
 let currentTime
+console.log(currentTime);
 if (time < 12) {
   currentTime = '☀ Good Morning ☀'
 }
