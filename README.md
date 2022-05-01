@@ -2,7 +2,9 @@
 
 <h3 align="center"> ☀ Good Morning ☀ </h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
-<i align="center">~ From Design To Code ~</i>
+<div align="center">
+    <i align="center">~ From Design To Code ~</i>
+</div>
 <h3 align="center">You can visit my web portfolio [here](https://porfolio-web.netlify.app/) </h3>
 
 ![Banner Git](https://user-images.githubusercontent.com/62907111/165439888-4fdba979-244b-4304-8256-08ad20e26360.png)
@@ -65,7 +67,7 @@ export default Dapier
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
-<h4 align="center">🔧 Tools ⚙</h4>
+<h3 align="center">🔧 Tools ⚙</h3>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" **alt="xd" width="40" height="40"/>
@@ -91,7 +93,7 @@ export default Dapier
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/dapiers/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/DrawDapier">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
