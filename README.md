@@ -1,6 +1,6 @@
 
 
-<h3 align="center"> Hey whats up guys! </h3>
+<h3 align="center"> Hey whats up guys! , %{{greetingTime}}%</h3>
 <h1 align="center"> 💫Hi!, Im Josue Alvarado 💫</h1>
 <div align="center">
     <i align="center">~ From Design To Code ~</i>
