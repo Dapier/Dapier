@@ -5,7 +5,7 @@ const timePlaceholder = /%{{greeting}}%/g
 
 const date = new Date();
 let hours = date.getHours();
-let greetingTime = (hours < 12) ? '☀ Good Morning ☀' : ((hours <= 18 && hours >=12)? 'Good afternoon!' : "🌕 Good Night! 🌕" )
+let greetingTime = (hours < 12) ? '☀ Good Morning ☀ ' : ((hours <= 18 && hours >=12)? 'Hey whats up guys!' : "🌕 Good Evening! 🌕" )
 
 
 // console.log(currentTime);
