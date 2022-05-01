@@ -68,20 +68,23 @@ export default Dapier
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapier)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Find Me In:
-~ <a href="https://twitter.com/drawdapier">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-~ <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-~ [Twitter](https://twitter.com/drawdapier)
-~ [Instagram](https://www.instagram.com/dapiers/)
-~ [Blog](https://kaanbalcat.vercel.app/)
-
 ### My Fav Works
 <a href="https://github.com/Dapier/blog_graphCMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dapier&repo=blog_graphCMS&theme=buefy" />
 </a>
+
+<h3 align="center">Contact Me</h3>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/josue-alvarado-11b799166/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/dapiers/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/DrawDapier">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div
+
 
 
